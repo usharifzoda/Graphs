@@ -15,4 +15,21 @@ for x in vals:
 
 print(max)
 
-#This is just a comment
+#Find Palindrome
+
+word = 'racecar'
+
+def isPalindrome(w):
+    print(w)
+    start = 0
+    end = len(w)-1
+    #print(w[end])
+
+    if(w[start] != w[end]):
+        return False
+    start +=1
+    end +=1
+
+    return True
+
+print(isPalindrome(word))
