@@ -1,0 +1,2 @@
+Bread 500
+cheese 200
