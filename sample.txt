@@ -1,0 +1,3 @@
+Writing some stuff in my text
+ file and 
+this is new file
